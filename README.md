@@ -83,7 +83,7 @@ This ensured accurate aggregation and meaningful visual analysis.
 
 ## Dashboard Preview
 
-![BMW Car Analysis Dashboard](screenshot/bmw_car_analysis.png)
+![BMW Car Analysis Dashboard]([screenshot/bmw_car_analysis.png](https://github.com/Thembelihle-tech/bmw_used_cars_analysis/blob/main/BMW%20Car%20Analysis%20-%20project/screenshot/bmw_car_analysis.png))
 
 ---
 
